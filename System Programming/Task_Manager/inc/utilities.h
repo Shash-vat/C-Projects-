@@ -1,0 +1,1 @@
+static unsigned int task_id;
