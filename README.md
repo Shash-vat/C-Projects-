@@ -33,6 +33,7 @@ Ensure you have the following installed on your system:
    ./output  
 
 📂 Project Structure
+```
 cpp-projects/
 │-- Basic-Programs/
 │   ├── hello-world.cpp
@@ -47,6 +48,7 @@ cpp-projects/
 │   ├── file-handling.cpp
 │   ├── multithreading.cpp
 │-- README.md
+```
 
 💡 Contributing
 Contributions are welcome! If you have any improvements or suggestions, feel free to:
